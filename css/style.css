@@ -1,0 +1,22 @@
+.container {
+    font-family:'Jetbrains mono';
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin:0 auto;
+    width: 380px;
+}
+
+.task h1 {
+    font-size: 16px;
+}
+
+.img {
+    margin-bottom: 2rem;
+    border-radius: 20px;    
+}
+
+.smykdoggers {
+	display: flex;
+	justify-content: center;
+}
