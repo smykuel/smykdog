@@ -24,11 +24,11 @@
 .nav-link a, .link {
 	display: inline-block;
 	vertical-align: top;
-	color:rgb(80, 0, 0);
+	color:rgb(134, 0, 0);
 	text-decoration: none;
 	transition: color .15s linear;
 }
 
 .nav-link a:hover, .link:hover {
-	color:#614040;
+	color:#977d7d;
 }
