@@ -4,11 +4,11 @@
     align-items: center;
     flex-direction: column;
     margin:0 auto;
-    width: 380px;
+    width: 360px;
 }
 
-.task h1 {
-    font-size: 16px;
+.pizduk h1 {
+    font-size: 16px
 }
 
 .img {
@@ -29,6 +29,7 @@
 	color:rgb(134, 0, 0);
 	text-decoration: none;
 	transition: color .15s linear;
+    margin-bottom: 1rem;
 }
 
 .nav-link a:hover, .link:hover {
